@@ -5,6 +5,12 @@ A Symfony pack that requires code quality tools.
 $ composer require --dev setono/code-quality-pack
 ```
 
+If you use Symfony Flex, you can also 'unpack' this pack:
+
+```bash
+$ composer unpack setono/code-quality-pack
+```
+
 ## Packages
 
 * [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize)
