@@ -9,10 +9,10 @@ $ composer require --dev setono/code-quality-pack
 
 * [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize)
     * Normalizes your `composer.json`. This has a few advantages - easier diffs  being one of them.
-* [korbeil/phpstan-generic-rules](https://github.com/Korbeil/phpstan-generic-rules)
-    * Has some very simple phpstan rules, i.e. it finds usages of debug functions like `dd` and reports them.
 * [phpstan/phpstan](https://github.com/phpstan/phpstan)
     * A static analysis tool.
+* [korbeil/phpstan-generic-rules](https://github.com/Korbeil/phpstan-generic-rules)
+    * Has some very simple phpstan rules, i.e. it finds usages of debug functions like `dd` and reports them.
 * [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine)
     * Doctrine extensions for PHPStan.
 * [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules)
