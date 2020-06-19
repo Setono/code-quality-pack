@@ -1,0 +1,17 @@
+{
+    "name": "setono/code-quality-pack",
+    "type": "symfony-pack",
+    "description": "A Symfony pack that requires code quality tools.",
+    "license": "MIT",
+    "require": {
+        "ergebnis/composer-normalize": "^2.3",
+        "korbeil/phpstan-generic-rules": "^0.2.4",
+        "phpstan/extension-installer": "^1.0",
+        "phpstan/phpstan": "^0.12.19",
+        "phpstan/phpstan-doctrine": "^0.12.10",
+        "phpstan/phpstan-strict-rules": "^0.12.2",
+        "phpstan/phpstan-webmozart-assert": "^0.12.3",
+        "sylius-labs/coding-standard": "^3.1",
+        "thecodingmachine/phpstan-safe-rule": "^1.0"
+    }
+}
