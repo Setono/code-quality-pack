@@ -1,6 +1,6 @@
 {
     "name": "setono/code-quality-pack",
-    "type": "symfony-pack",
+    "type": "library",
     "description": "A Symfony pack that requires code quality tools.",
     "license": "MIT",
     "require": {

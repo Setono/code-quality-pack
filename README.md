@@ -1,14 +1,8 @@
 # Code Quality Pack
-A Symfony pack that requires code quality tools.
+A collection of libraries that in some way enhances your code quality.
 
 ```bash
 $ composer require --dev setono/code-quality-pack
-```
-
-If you use Symfony Flex, you can also 'unpack' this pack:
-
-```bash
-$ composer unpack setono/code-quality-pack
 ```
 
 ## Packages
