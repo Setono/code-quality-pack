@@ -26,3 +26,5 @@ $ composer require --dev setono/code-quality-pack
     * Sylius' coding standard. Very thorough.
 * [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule)
     * A PHPStan rule that reports usage of functions which that can return arbitrary results instead of throwing exceptions.
+* [vimeo/psalm](https://psalm.dev/)
+    * A static analysis tool much like PHPStan
