@@ -22,8 +22,6 @@ $ composer require --dev setono/code-quality-pack
 * [phpstan/extension-installer](https://github.com/phpstan/extension-installer)
     * Automatically installs PHPStan extensions. This makes sure that all extensions are installed automatically and you
     don't have to add them to your `phpstan.neon` config.
-* [roave/security-advisories](https://github.com/Roave/SecurityAdvisories)
-    * Makes sure your application doesn't have packages with security vulnerabilities.
 * [sylius-labs/coding-standard](https://github.com/SyliusLabs/CodingStandard)
     * Sylius' coding standard. Very thorough.
 * [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule)
