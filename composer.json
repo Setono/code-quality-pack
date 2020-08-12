@@ -11,6 +11,7 @@
         "phpstan/phpstan-doctrine": "^0.12.19",
         "phpstan/phpstan-strict-rules": "^0.12.4",
         "phpstan/phpstan-webmozart-assert": "^0.12.7",
+        "slevomat/coding-standard": "^6.3",
         "sylius-labs/coding-standard": "^3.2",
         "thecodingmachine/phpstan-safe-rule": "^1.0",
         "vimeo/psalm": "^3.13"
