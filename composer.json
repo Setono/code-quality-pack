@@ -15,6 +15,9 @@
         "thecodingmachine/phpstan-safe-rule": "^1.0",
         "vimeo/psalm": "^3.13"
     },
+    "conflict": {
+        "symplify/package-builder": "8.3.*"
+    },
     "config": {
         "sort-packages": true
     }
