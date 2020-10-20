@@ -13,7 +13,7 @@
         "phpstan/phpstan-webmozart-assert": "^0.12.7",
         "sylius-labs/coding-standard": "^3.2.1",
         "thecodingmachine/phpstan-safe-rule": "^1.0",
-        "vimeo/psalm": "^3.16"
+        "vimeo/psalm": "^3.16 || ^4.0"
     },
     "conflict": {
         "symplify/package-builder": "8.3.*"
