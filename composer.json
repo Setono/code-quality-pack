@@ -4,18 +4,19 @@
     "description": "A pack that installs code quality tools.",
     "license": "MIT",
     "require": {
-        "ergebnis/composer-normalize": "^2.9",
+        "ergebnis/composer-normalize": "^2.13",
         "korbeil/phpstan-generic-rules": "^0.2.4",
-        "phpstan/extension-installer": "^1.0.5",
-        "phpstan/phpstan": "^0.12.58",
-        "phpstan/phpstan-doctrine": "^0.12.25",
-        "phpstan/phpstan-strict-rules": "^0.12.5",
-        "phpstan/phpstan-webmozart-assert": "^0.12.7",
+        "phpstan/extension-installer": "^1.1",
+        "phpstan/phpstan": "^0.12.69",
+        "phpstan/phpstan-doctrine": "^0.12.30",
+        "phpstan/phpstan-strict-rules": "^0.12.9",
+        "phpstan/phpstan-webmozart-assert": "^0.12.9",
         "sylius-labs/coding-standard": "^3.2.1",
         "thecodingmachine/phpstan-safe-rule": "^1.0.1",
-        "vimeo/psalm": "^4.2"
+        "vimeo/psalm": "^4.4"
     },
     "conflict": {
+        "symfony/dependency-injection": "4.4.19",
         "symplify/package-builder": "8.3.*"
     },
     "config": {
