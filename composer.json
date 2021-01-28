@@ -11,9 +11,7 @@
         "phpstan/phpstan-doctrine": "^0.12.30",
         "phpstan/phpstan-strict-rules": "^0.12.9",
         "phpstan/phpstan-webmozart-assert": "^0.12.9",
-        "setono/coding-standard": "dev-master",
-        "slevomat/coding-standard": "^6.4",
-        "symplify/easy-coding-standard": "^9.0",
+        "setono/coding-standard": "^1.0",
         "thecodingmachine/phpstan-safe-rule": "^1.0.1",
         "vimeo/psalm": "^4.4"
     },
