@@ -8,6 +8,10 @@
         "sylius-labs/coding-standard": "^4.0.2",
         "vimeo/psalm": "^4.7"
     },
+    "conflict": {
+        "symfony/dependency-injection": ">=4.4.19",
+        "symplify/package-builder": "8.3.*"
+    },
     "config": {
         "sort-packages": true
     }
