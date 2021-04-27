@@ -9,8 +9,7 @@
         "vimeo/psalm": "^4.7"
     },
     "conflict": {
-        "symfony/dependency-injection": "^4.4.19",
-        "symplify/package-builder": "8.3.*"
+        "symfony/dependency-injection": "^4.4.19"
     },
     "config": {
         "sort-packages": true
