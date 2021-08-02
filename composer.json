@@ -9,6 +9,7 @@
         "vimeo/psalm": "^4.7"
     },
     "conflict": {
+        "sylius-labs/coding-standard": "4.1.0",
         "symfony/dependency-injection": "^4.4.19",
         "symplify/easy-coding-standard": "9.3.27"
     },
