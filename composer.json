@@ -4,9 +4,9 @@
     "description": "A pack that installs code quality tools.",
     "license": "MIT",
     "require": {
-        "ergebnis/composer-normalize": "^2.13",
-        "sylius-labs/coding-standard": "^4.0.2",
-        "vimeo/psalm": "^4.7"
+        "ergebnis/composer-normalize": "^2.15",
+        "sylius-labs/coding-standard": "^4.1.1",
+        "vimeo/psalm": "^4.11.2"
     },
     "conflict": {
         "sylius-labs/coding-standard": "4.1.0",
