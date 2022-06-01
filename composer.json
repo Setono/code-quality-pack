@@ -6,7 +6,7 @@
     "require": {
         "php": ">=7.4",
         "ergebnis/composer-normalize": "^2.27",
-        "sylius-labs/coding-standard": "^4.1",
+        "sylius-labs/coding-standard": "^4.1.1",
         "vimeo/psalm": "^4.23"
     },
     "config": {
