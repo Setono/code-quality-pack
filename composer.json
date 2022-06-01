@@ -1,19 +1,18 @@
 {
     "name": "setono/code-quality-pack",
-    "type": "library",
     "description": "A pack that installs code quality tools.",
     "license": "MIT",
+    "type": "library",
     "require": {
-        "ergebnis/composer-normalize": "^2.15",
-        "sylius-labs/coding-standard": "^4.1.1",
-        "vimeo/psalm": "^4.11.2"
-    },
-    "conflict": {
-        "sylius-labs/coding-standard": "4.1.0",
-        "symfony/dependency-injection": "^4.4.19",
-        "symplify/easy-coding-standard": "9.3.27"
+        "ergebnis/composer-normalize": "^2.27",
+        "sylius-labs/coding-standard": "^4.2",
+        "vimeo/psalm": "^4.23"
     },
     "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": false,
+            "ergebnis/composer-normalize": true
+        },
         "sort-packages": true
     }
 }
