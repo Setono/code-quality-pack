@@ -4,8 +4,9 @@
     "license": "MIT",
     "type": "library",
     "require": {
+        "php": ">=7.4",
         "ergebnis/composer-normalize": "^2.27",
-        "sylius-labs/coding-standard": "^4.2",
+        "sylius-labs/coding-standard": "^4.1",
         "vimeo/psalm": "^4.23"
     },
     "config": {
