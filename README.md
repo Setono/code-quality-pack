@@ -8,7 +8,9 @@ $ composer require --dev setono/code-quality-pack
 ## Packages
 
 * [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize)
-    * Normalizes your `composer.json`. This has a few advantages - easier diffs  being one of them.
+  * Normalizes your `composer.json`. This has a few advantages - easier diffs  being one of them.
+* [rector/rector](https://getrector.org/documentation)
+  * Easily refactors and upgrades your code base.
 * [sylius-labs/coding-standard](https://github.com/SyliusLabs/CodingStandard)
     * Sylius' coding standard. Very thorough.
 * [vimeo/psalm](https://psalm.dev/)
