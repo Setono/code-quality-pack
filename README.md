@@ -1,8 +1,8 @@
 # Code Quality Pack
 A collection of libraries that in some way enhances your code quality.
 
-```bash
-$ composer require --dev setono/code-quality-pack
+```shell
+composer require --dev setono/code-quality-pack
 ```
 
 ## Packages
