@@ -10,7 +10,7 @@
         "sylius-labs/coding-standard": "^4.1.1",
         "vimeo/psalm": "^5.23"
     },
-    "conflicts": {
+    "conflict": {
         "vimeo/psalm": "5.24.0"
     },
     "config": {
