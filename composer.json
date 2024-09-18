@@ -11,7 +11,7 @@
         "vimeo/psalm": "^5.23.1"
     },
     "conflict": {
-        "vimeo/psalm": "5.24.0 || 5.25.0"
+        "vimeo/psalm": ">=5.24.0,<=5.26.1"
     },
     "config": {
         "allow-plugins": {
