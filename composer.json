@@ -8,7 +8,7 @@
         "ergebnis/composer-normalize": "^2.42",
         "rector/rector": "^1.0.1",
         "sylius-labs/coding-standard": "^4.1.1",
-        "vimeo/psalm": "^5.23.1"
+        "vimeo/psalm": "^5.23.1 || ^6.0"
     },
     "conflict": {
         "vimeo/psalm": ">=5.24.0,<=5.26.1"
