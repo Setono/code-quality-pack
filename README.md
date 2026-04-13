@@ -13,7 +13,11 @@ composer require --dev setono/code-quality-pack
     * Mutation testing framework to measure the quality of your tests.
 * [phpstan/phpstan](https://phpstan.org/)
     * A static analysis tool that finds bugs without running your code.
+* [phpunit/phpunit](https://phpunit.de/)
+    * The PHP testing framework.
 * [rector/rector](https://getrector.org/documentation)
     * Easily refactors and upgrades your code base.
+* [shipmonk/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser)
+    * Detects unused, shadow, and misplaced Composer dependencies.
 * [sylius-labs/coding-standard](https://github.com/SyliusLabs/CodingStandard)
     * Sylius' coding standard. Very thorough.

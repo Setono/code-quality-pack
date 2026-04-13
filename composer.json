@@ -9,7 +9,9 @@
         "infection/infection": "^0.29.14",
         "phpstan/phpstan": "^2.1.46",
         "phpstan/phpstan-strict-rules": "^2.0.10",
+        "phpunit/phpunit": "^11.5.55",
         "rector/rector": "^2.4.1",
+        "shipmonk/composer-dependency-analyser": "^1.8.4",
         "sylius-labs/coding-standard": "^4.5"
     },
     "config": {
