@@ -9,7 +9,7 @@
         "infection/infection": "^0.29.14",
         "jangregor/phpstan-prophecy": "^2.3",
         "phpspec/prophecy-phpunit": "^2.5",
-        "phpstan/extension-installer": "*",
+        "phpstan/extension-installer": "^1.4.3",
         "phpstan/phpstan": "^2.1.46",
         "phpstan/phpstan-phpunit": "^2.0.16",
         "phpstan/phpstan-strict-rules": "^2.0.10",
