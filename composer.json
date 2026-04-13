@@ -9,6 +9,7 @@
         "infection/infection": "^0.29.14",
         "jangregor/phpstan-prophecy": "^2.3",
         "phpspec/prophecy-phpunit": "^2.5",
+        "phpstan/extension-installer": "*",
         "phpstan/phpstan": "^2.1.46",
         "phpstan/phpstan-phpunit": "^2.0.16",
         "phpstan/phpstan-strict-rules": "^2.0.10",
@@ -26,7 +27,8 @@
         "allow-plugins": {
             "dealerdirect/phpcodesniffer-composer-installer": false,
             "ergebnis/composer-normalize": true,
-            "infection/extension-installer": true
+            "infection/extension-installer": true,
+            "phpstan/extension-installer": true
         },
         "bump-after-update": true,
         "sort-packages": true

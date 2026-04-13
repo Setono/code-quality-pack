@@ -13,6 +13,8 @@ composer require --dev setono/code-quality-pack
     * Mutation testing framework to measure the quality of your tests.
 * [jangregor/phpstan-prophecy](https://github.com/jangregor/phpstan-prophecy)
     * PHPStan extension for Prophecy mocking.
+* [phpstan/extension-installer](https://github.com/phpstan/extension-installer)
+    * Automatically registers PHPStan extensions.
 * [phpstan/phpstan](https://phpstan.org/)
     * A static analysis tool that finds bugs without running your code.
 * [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit)
