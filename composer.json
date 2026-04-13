@@ -8,6 +8,7 @@
         "ergebnis/composer-normalize": "^2.47",
         "infection/infection": "^0.29",
         "phpstan/phpstan": "^2.1",
+        "phpstan/phpstan-strict-rules": "^2.0",
         "rector/rector": "^2.0",
         "sylius-labs/coding-standard": "^4.4"
     },
