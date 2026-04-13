@@ -10,7 +10,7 @@
         "jangregor/phpstan-prophecy": "^2.3",
         "phpspec/prophecy-phpunit": "^2.5",
         "phpstan/phpstan": "^2.1.46",
-        "phpstan/phpstan-phpunit": "^2.0",
+        "phpstan/phpstan-phpunit": "^2.0.16",
         "phpstan/phpstan-strict-rules": "^2.0.10",
         "phpstan/phpstan-webmozart-assert": "^2.0",
         "phpunit/phpunit": "^11.5.55",
