@@ -7,12 +7,20 @@
         "php": ">=8.2",
         "ergebnis/composer-normalize": "^2.50",
         "infection/infection": "^0.29.14",
+        "jangregor/phpstan-prophecy": "^2.3",
+        "phpspec/prophecy-phpunit": "^2.5",
         "phpstan/phpstan": "^2.1.46",
+        "phpstan/phpstan-phpunit": "^2.0",
         "phpstan/phpstan-strict-rules": "^2.0.10",
+        "phpstan/phpstan-webmozart-assert": "^2.0",
         "phpunit/phpunit": "^11.5.55",
         "rector/rector": "^2.4.1",
         "shipmonk/composer-dependency-analyser": "^1.8.4",
         "sylius-labs/coding-standard": "^4.5"
+    },
+    "suggest": {
+        "phpstan/phpstan-doctrine": "PHPStan extension for Doctrine projects",
+        "phpstan/phpstan-symfony": "PHPStan extension for Symfony projects"
     },
     "config": {
         "allow-plugins": {
